@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap"
+      rel="stylesheet"
+    />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Instagram</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="username-container">
+      <p>Please enter your username:</p>
+      <input type="text" id="username-input" placeholder="" />
+      <button onclick="setUsername()">Continue</button>
+    </div>
+
+    <div id="app" style="display: none">
+      <div id="feed"></div>
+    </div>
+    <script src="post.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
