@@ -1,4 +1,4 @@
-const posts = window.posts;
+let posts = window.posts;
 console.log("🚀 script.js has loaded successfully!");
 window.setUsername = function () {
   const input = document.getElementById("username-input").value.trim();
