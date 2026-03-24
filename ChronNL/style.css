@@ -1,0 +1,330 @@
+/* General Page Styles */
+body {
+  font-family: "PT Sans", Arial, sans-serif;
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  margin: 0;
+  padding: 20px 0;
+}
+
+/* Instagram App Container */
+#app {
+  width: 400px;
+  background: white;
+  border: 1px solid #dbdbdb;
+  border-radius: 5px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  overflow: visible;
+  padding: 10px; /* Ensures content doesn't touch the edges */
+  box-sizing: border-box; /* Prevents padding from affecting width */
+}
+
+/* Feed Adjustments */
+#feed {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%; /* Make sure feed takes full width */
+}
+
+/* Ensure posts take full width */
+.post {
+  width: 100%;
+  padding: 10px;
+  border-bottom: 1px solid #dbdbdb;
+  box-sizing: border-box; /* Fix width calculation issues */
+}
+
+/* Fix for images and videos to ensure they align properly */
+.post img,
+.post video {
+  width: 100%;
+  max-height: 500px;
+  border-radius: 5px;
+  object-fit: cover;
+  display: block; /* Prevents extra spacing issues */
+  margin: 0 auto; /* Ensures media is centered */
+}
+
+/* Center text elements properly */
+.post h3,
+.post p {
+  text-align: left;
+  margin-left: 5px;
+}
+
+.hashtag {
+  color: #0095f6; /* Instagram blue */
+  cursor: pointer;
+}
+
+.post-date {
+  font-size: 11px;
+  color: #8e8e8e; /* Instagram gray */
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 6px 0 4px 5px; /* aligns with caption */
+}
+
+.comment-section {
+  display: flex;
+  flex-direction: column; /* Keeps comments stacked */
+  align-items: flex-start;
+  width: 100%;
+}
+
+/* Wrap input + send button in a row */
+.comment-input-container {
+  display: flex;
+  align-items: center; /* Align input & send button in the same row */
+  width: 100%;
+  gap: 6px; /* Adds space between input & send button */
+}
+
+/* Style for the input */
+.comment-section input {
+  flex: 1; /* Takes up remaining space */
+  padding: 5px;
+  font-size: 14px;
+  border: 1px solid #dbdbdb;
+  border-radius: 5px;
+}
+
+/* Ensure comments list stays below */
+.comment-section ul {
+  list-style-type: none; /* Removes bullet points */
+  padding: 0;
+  margin-top: 5px; /* Space between input & first comment */
+  width: 100%; /* Makes sure comments take full width */
+}
+
+.comment-section ul li {
+  display: block !important; /* Forces each comment onto a new line */
+  width: 100% !important;
+  word-wrap: break-word !important;
+  white-space: normal !important;
+  clear: both !important; /* Forces separation from input box */
+  margin-top: 5px !important; /* Adds space between comments */
+  text-align: left; /* Ensures proper alignment */
+}
+
+/* Carousel Container */
+.carousel-container {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Carousel Images */
+.carousel-container img {
+  width: 100%;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+/* Carousel Buttons */
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 20px; /* Bigger size for better visibility */
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+/* Positioning the Left and Right Buttons */
+.carousel-btn.left {
+  left: 10px;
+}
+
+.carousel-btn.right {
+  right: 10px;
+}
+
+/* Carousel Indicator */
+.carousel-indicator {
+  position: absolute;
+  bottom: 10px;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  font-size: 14px;
+  padding: 5px 10px;
+  border-radius: 15px;
+}
+
+/* 💀 Forces everything in .post-header to stay on one line and aligned LEFT */
+/* 💀 Forces everything to be FLUSH LEFT with NO extra spacing */
+.post-header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 4px; /* ✅ Reduces space between avatar and username */
+  margin-bottom: 8px;
+  padding-left: 0; /* ✅ Ensures no weird extra padding */
+}
+
+/* 💀 Forces the avatar to NEVER change size, NEVER move */
+.avatar-wrapper {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  overflow: hidden; /* 🔥 THIS is the key */
+  flex-shrink: 0;
+}
+
+.avatar-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* 💀 Forces the username to stick right NEXT to the avatar */
+.username {
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: calc(100% - 40px); /* ✅ Makes room for the avatar */
+  text-align: left;
+  display: inline-block; /* ✅ Stops weird spacing issues */
+  flex-grow: 1; /* ✅ Prevents it from forcing extra space */
+  margin: 0;
+  padding: 0;
+}
+
+/* Post actions (Like, Comment, and Send icons) */
+.post-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px; /* Space between icons */
+  margin-top: 5px;
+}
+
+/* Like & Comment buttons */
+.action-icon {
+  max-width: 24px;
+  max-height: 24px;
+  width: auto;
+  height: auto;
+  cursor: pointer;
+  object-fit: contain; /* Prevents cropping */
+  display: inline-block; /* Ensures they don’t collapse */
+}
+
+/* Send Comment button */
+.send-icon {
+  max-width: 24px;
+  max-height: 24px;
+  width: auto;
+  height: auto;
+  cursor: pointer;
+  object-fit: contain; /* Prevents cropping */
+  display: inline-block; /* Ensures they don’t collapse */
+}
+
+/* Ensure images don’t overflow */
+img {
+  max-width: unset; /* Remove unwanted scaling */
+  height: auto; /* Keep the correct aspect ratio */
+}
+
+.hidden {
+  display: none; /* Hide elements */
+}
+
+/* play button overlay */
+.video-container {
+  position: relative;
+  display: flex;
+  width: 100%; /* ✅ Make the video take the full width */
+  max-width: 100%; /* ✅ Ensure it doesn't overflow */
+  justify-content: center;
+  align-items: center;
+}
+
+.play-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50px; /* ✅ Force a specific width */
+  height: 50px; /* ✅ Force a specific height */
+  opacity: 0.9;
+  pointer-events: none; /* ✅ Ensures taps go to video */
+  transition: opacity 0.2s ease-in-out, visibility 0.2s ease-in-out;
+  visibility: visible; /* ✅ Ensures smooth hiding */
+  display: block; /* ✅ Make sure it's being rendered */
+  background-image: url("https://github.com/ruochongji/affordancePSIPSR/blob/main/playbutton.png?raw=true"); /* ✅ Use as a background image */
+  background-size: contain; /* ✅ Ensures full visibility */
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.hidden {
+  opacity: 0; /* ✅ Fade out instead of disappearing abruptly */
+  visibility: hidden;
+}
+
+#username-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  font-family: "PT Sans", sans-serif;
+}
+
+#username-container p {
+  font-size: 18px;
+  color: #262626;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+#username-input {
+  width: 280px;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #dbdbdb;
+  border-radius: 5px;
+  text-align: center;
+  outline: none;
+}
+
+#username-input:focus {
+  border-color: #a8a8a8;
+}
+
+#username-container button {
+  margin-top: 10px;
+  width: 280px;
+  padding: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  background-color: #0095f6;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#username-container button:hover {
+  background-color: #007acc;
+}
