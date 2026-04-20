@@ -75,700 +75,726 @@ const posts = [
   },
   {
     type: "image",
-    username: "rosy.gram",
-    date: "May 9",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_boat_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-1.jpg",
+    ],
+    caption: "Just got my ID card. How do I look?? 😭😭😭",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "image",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-2.jpg",
     ],
     caption:
-      "hawaii, day three 🚤\n    went on a cruise today… the wind felt so nice but honestly the charcuterie might’ve been the highlight 🤭🧀\n    #boatday #hawaiitrip #oceanvibes #foodie\n    ",
+      "ROZY ‘REBIRTH’ | 3rd Teaser\n\n\nThe bloom unfolds, signaling a new dawn\nA journey in full bloom, the beginning of a new era",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
     type: "image",
-    username: "rosy.gram",
-    date: "May 29",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_gala_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-3.jpg",
     ],
     caption:
-      "you can never go wrong with black 🖤\n    simple, clean, and does all the work for you\n    #classicstyle #littleblackdress #minimalvibes #ootn\n    ",
+      "ROZY ‘REBIRTH’ | 2nd Teaser\n\n\nA new beginning emerges, as new sprouts unfurl",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
     type: "image",
-    username: "rosy.gram",
-    date: "April 3",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_car_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-4.jpg",
     ],
     caption:
-      "Hi 💕 my name is Rosy and I’m finally starting this account ✨\n    I’ve been wanting to do this for a while and decided to just go for it 🌸 I’ll be sharing bits of my life, things I love, and everything that inspires me 💭\n    Still figuring things out, but I’m excited to grow, create, and connect with you all 🤍\n    Thanks for being here from the beginning 💌 #newbeginnings #contentcreator #lifestyleblogger",
+      "Behind the Scenes 💛\nFeeling of being wrapped in a blanket with the AC blasting☁️☁️",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
     type: "image",
-    username: "EmmaK",
-    date: "May 25",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/FirstClassL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-5.jpg",
     ],
     caption:
-      "guess who’s flying out to see their favorite band… 👀\n    i’ve been waiting for this for so long i actually can’t believe it’s happening\n    #concerttrip #excited #traveldiaries #fangirl\n    ",
+      "If I were a Barbie doll? ❤️\nEveryone’s had that thought, right? ✨\n\nWho‘s gonna brush my Barbie hair tho ?😝",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
     type: "image",
-    username: "EmmaK",
-    date: "June 3",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/MatchaPockyL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-6.jpg",
+    ],
+    caption: "We Are All Strangers 🖤",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "image",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-7.jpg",
+    ],
+    caption: "Romantic aromatic night palace ⛲️",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "image",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-8.jpg",
+    ],
+    caption: "🌊 FOOD TRIP IN BUSAN 🌊",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "image",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-9.jpg",
     ],
     caption:
-      "trying these matcha crunch sticks lately 🍵\n    they’re high protein but actually taste good?? like why are they kinda addictive\n    perfect little snack when i don’t feel like making real food 😭\n    #matchasnack #highprotein #snacktime #sponsored\n    ",
+      "The sunshine is warm, and the breeze is gentle 🍃\nA perfect weather for jumping around 🐕🐾",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
     type: "image",
-    username: "EmmaK",
-    date: "May 12",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/SkiL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-10.jpg",
     ],
     caption:
-      "switzerland day 1 ❄️\n    i came i skiied and i did NOT fall that many times ok 😭\n    why is there snow in may… im confused but also kinda obsessed\n    #switzerland #skitrip #snowday #uwu\n    ",
+      "Running my first ever charity marathon 🏃‍♀️👟🏅\n\nWe run with a heart full of passion & gratitude ❤️‍🔥",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
     type: "image",
-    username: "rosy.gram",
-    date: "June 4",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_oranges_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-11.jpg",
+    ],
+    caption: "Is K shopping always this CUTE? 🐾",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "image",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-12.jpg",
+    ],
+    caption: "Climbing two steps for the view 🦥",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "image",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-13.jpg",
+    ],
+    caption: "❤️‍🔥spider🕷 woman😉",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "image",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-14.jpg",
+    ],
+    caption: "Caesar🖤 You’re the best part🎶🎵",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "image",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-15.jpg",
+    ],
+    caption: "Eat, sleep, swim,\nIt’s a day of peace🌼💫",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "image",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-16.jpg",
+    ],
+    caption: "Eat, sleep, swim,\nIt’s a day of peace🌼💫\nPart 2.",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "image",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-17.jpg",
     ],
     caption:
-      "still not over this… got invited out for a shoot today and felt a little out of my element at first, but it ended up being so fun 🥹📸\n    learning to just say yes to things even when they scare me a little\n    #photoshoot #behindthescenes #influencerlife #newexperiences\n    ",
+      "Rainy days & cozy vibes ☔💙\nJust a girl, a drizzle, and a dreamy mood ✨🌧",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
     type: "image",
-    username: "EmmaK",
-    date: "April 26",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/InstaMuseumL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-18.jpg",
+    ],
+    caption: "Drizzling outside, dreamy inside ☔💭💙",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "image",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-19.jpg",
+    ],
+    caption: "🛍️Came to Soho for shopping🛍️",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "image",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-photo-20.jpg",
+    ],
+    caption: "Get Ready With ROZY🤳",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "video",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-1.mp4",
     ],
     caption:
-      "still day 2 ☆\n\n    went to the nintendo museum and i think i peaked here 🎮\n    everything was so cute i wanted to take it home (╥﹏╥)\n    #nintendo #tokyo #gamergirl #softchaos    \n    ",
+      "Serving looks, but why do I see double? 👀✨ \nOne outfit, multiple vibes—guess I’m just too iconic to be singular 😉💁‍♀️",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "CafePhotography",
-    date: "May 9",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/photography_2.jpg",
-    ],
-    caption: "\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/photography_avatar.jpg",
-  },
-  {
-    type: "image",
-    username: "CafePhotography",
-    date: "June 15",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/photography_4.jpg",
-    ],
-    caption: "\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/photography_avatar.jpg",
-  },
-  {
-    type: "image",
-    username: "rosy.gram",
-    date: "April 27",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_camera_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-2.mp4",
     ],
     caption:
-      "learning something new lately 📷\n\n    been trying my hand at photography and seeing the world a little differently… noticing light, details, and moments I would’ve usually missed #photographyjourney #learningnewthings #creativeprocess #behindthelens     \n    ",
+      "Blending into the rhythm of Seoul✨\n\nModern meets artistic, painting the city with style 💫",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "rosy.gram",
-    date: "April 20",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_vintage_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-3.mp4",
     ],
     caption:
-      "did a little vintage glamour moment in paris and I’m obsessed 🎞️\n    something about this city just makes everything feel softer, prettier, and a little more timeless \n    \n    #parisphotoshoot #vintagevibes #glamour #parisianstyle\n    ",
+      "Ta-Dah!\nLet me introduce my companion fruit, Oh-C!✨\nAs Oh-C is kinda cynical, it took a long time to introduce itself!🤣\nPlease love and support me and my only family, Oh-C 💁🏻‍♀️ 🍊",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "CafePhotography",
-    date: "May 30",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/photography_3.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-4.mp4",
     ],
-    caption: "\n    ",
+    caption: "🎅🏼I can go anywhere like Santa",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/photography_avatar.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "EmmaK",
-    date: "May 14",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/LegoL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-5.mp4",
     ],
-    caption:
-      "day 3 ☆ on my way back\n    stopped at legoland in günzburg and healed my inner child a little 🧸\n    That lego head is SO BIG\n    #legoland #germany #travelstop #softchaos\n    ",
+    caption: "ℝ𝕆ℤ𝕐 𝕎𝕀𝕋ℍ ℝ𝕆𝕊𝔼 💐",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "EmmaK",
-    date: "June 18",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/PicnicL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-6.mp4",
     ],
-    caption:
-      "a little picnic with myself 🌿\n    picked up my matcha to go and found a quiet spot to just sit and exist for a bit 🍵\n    #picnicvibes #matchalover #meetime #slowmoments\n    ",
+    caption: "Post our works to host the EXPO.\n#2030WorldEXPOBUSAN",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "rosy.gram",
-    date: "April 30",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_energy_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-7.mp4",
     ],
-    caption:
-      "ootd 🤍\n    keeping it simple today—white top, jeans, and my current go-to drink ✨ been loving this lately for a little extra energy without feeling too heavy\n    running errands, getting things done, and trying to stay cute while doing it 💁🏻‍♀️\n    #ootd #casualstyle #everydaylook #sponsored\n    ",
+    caption: "Idk if it's a dream or reality,\nThis is paradise on earth🍹",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "EmmaK",
-    date: "April 21",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/ArchL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-8.mp4",
     ],
     caption:
-      "ootd ✿\n    i love spring sm… everything feels softer and a little prettier (｡･ω･｡)ﾉ♡\n    mixing random pieces today but it kinda works?? 🌸🧃🌷\n    #ootd #springvibes #altstyle #uwu\n    ",
+      "Happy song of birds\nTree swaying in the wind\nSunlight on the wave\nAlone time, not alone",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "rosy.gram",
-    date: "April 7",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_hiking_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-9.mp4",
     ],
     caption:
-      "Texas, day two 🌄\n    traded my boots for a hike today and got a reminder that growth doesn’t always look the same… sometimes it’s quiet, sometimes it’s a climb 💭\n    just taking it all in, one step at a time!\n    #texashikes #keepgoing #exploremore #newbeginnings    \n    ",
+      "Looking for a tranquil beach?🧘‍♂️\nCraving to explore hidden islands?🏝\nBecause I know I am😄",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "EmmaK",
-    date: "June 15",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/GardenL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-10.mp4",
     ],
     caption:
-      "arboretum day 🌸\n    stopping to smell the flowers like i have my life together… even if i don’t 🤭\n    #arboretum #flowergirl #naturevibes #softmoments    \n    ",
+      "I've been appointed ambassador to MVFW23 starting on March 28th!🎉 \n The runway of unlimited possibilities",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "NailsByZZ",
-    date: "May 12",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/nail_3.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-11.mp4",
     ],
-    caption: "\n    ",
+    caption: "I love hanging out here! 😎🌟💖",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/nail_avatar.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "EmmaK",
-    date: "April 11",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/KitchenL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-12.mp4",
     ],
-    caption:
-      "cooking at home today ♡\n    trying to be domestic for once… we’ll see how it goes (｡• ᵕ •｡)\n    what’s your favorite recipe? i need ideas pls 🥺\n    #homecooking #cozyvibes #whatsfordinner \n    ",
+    caption: "CLet’s wear the future.\nLet’s wear the party.",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "EmmaK",
-    date: "May 1",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/MirrorL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-13.mp4",
     ],
-    caption:
-      "throwback from like 3 months ago…\n    why does long hair me look like a completely different person?? (⊙_⊙)\n    kinda miss it… kinda don’t\n    #throwback #oldme #hairjourney\n    ",
+    caption: "🤔✨ Guess where I am!🌍✈️🔍",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "EmmaK",
-    date: "April 29",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AntiqueL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-14.mp4",
     ],
     caption:
-      "went antiquing today and now im stuck…\n    do i NEED this fabulous fan or am i just being dramatic 😭\n    someone decide for me pls i cannot be trusted\n    #antiquing #vintagefinds #helpmechoose #ootd\n    ",
+      "Just a girl and her teddy bear 🐾🐻💖 Couldn’t imagine life without this little fluffball!",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "rosy.gram",
-    date: "April 13",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_bag_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-15.mp4",
     ],
     caption:
-      "girls’ night fit check 🖤\n\n    keeping it simple but a little polished… because you never know where the night’s gonna take you #girlsnight #fitcheck #nightoutvibes #effortlessstyle    \n    ",
+      "Cheers to new beginnings and unforgettable memories! 🎉🥂✨ \n\nCounting down to a year full of love, laughter, and growth. Let’s make it amazing! ⏳🎆",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "EmmaK",
-    date: "April 25",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/CityL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-16.mp4",
     ],
     caption:
-      "tokyo day 1 ☆ shibuya\n    everything is so bright and loud i feel like im inside a game rn (⊙_⊙)  \n    i think i crossed that big street like 5 times just for fun \n    #tokyo #shibuya #traveldiary #uwu\n    ",
+      "Hanbok is Korean traditional costume.🇰🇷\nlet's promote it by wearing!📢",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "NailsByZZ",
-    date: "May 18",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/nail_4-1.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-17.mp4",
     ],
-    caption: "\n    ",
+    caption: "hip and Singapore vibeeee🔥🦐",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/nail_avatar.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "EmmaK",
-    date: "April 26",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/HatL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-18.mp4",
     ],
-    caption:
-      "tokyo day 2 ☆ harajuku\n    found the most ridiculous hat store ever… and now im hamburger 🍔 \n    no explanation just vibes\n    #harajuku #tokyostyle #weirdcore #uwu\n    ",
+    caption: "𝘼𝙨𝙠 𝙢𝙚 🎧\nnew music video with Shinhanlife",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "rosy.gram",
-    date: "April 17",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_balloons_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-19.mp4",
     ],
-    caption:
-      "it’s my birthday 🎀\n\n    feeling extra grateful this year… and maybe a little spontaneous 🤭\n    guess where I’m going next ✈️ (hint: think croissants + a certain tower)\n    #birthdaygirl #birthdayvibes #guesswhere #traveltease    \n    ",
+    caption: "⬇️CLICK⬇️ save and use it💝",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "rosy.gram",
-    date: "April 18",
+    type: "video",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_fruit_L.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-video-20.mp4",
     ],
     caption:
-      "did you guess it? 🤍\n    it’s …paris!!! 🥐✨\n    celebrating my birthday the best way I know how—with a view, a drink, and a little bit of magic\n    #paris #birthdaytrip #parisvibes #traveldiary\n    ",
+      "🍊✨ Who’s got the cutest companion fruit on the internet?\n👀👉 I do! 🍊🥰🧡",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "EmmaK",
-    date: "May 12",
+    type: "carousel",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/WalkL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-1.1.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-1.2.jpg",
     ],
     caption:
-      "snow ootd check 🧊\n    trying to look cute while actively freezing (｡• ᵕ •｡) \n    #ootd #snowfit #wintervibes #altstyle\n    ",
+      "Turning the streets of Retro Seoul into my runway 💚🌸\nShining bright in the iconic market scene 📸✨",
     likes: 0,
     liked: false,
     comments: [],
+    currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "EmmaK",
-    date: "May 13",
+    type: "carousel",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/GalleryL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-2.2.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-2.1.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-2.3.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-2.4.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-2.5.jpg",
+    ],
+    caption: "How can monochrome be this cool ? 🖤⚡\nTaking it to new levels!",
+    likes: 0,
+    liked: false,
+    comments: [],
+    currentIndex: 0, // Track which image is showing in the carousel
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "carousel",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-3.1.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-3.2.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-3.3.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-3.4.jpg",
     ],
     caption:
-      "switzerland day 2 ☆\n    went to a gallery today and pretended i understood art\n    #artgirl #galleryday #traveldiary\n    ",
+      "The Love Your W Breast Cancer Awareness Campaign is now celebrating its 16th year!\nFor this special occasion, 16 celebrities from 13 teams came together to grace the cover of W Korea's December issue. I am truly honored to be the seventh main feature!\nA heartfelt thank you to everyone who contributed to this meaningful cause.\n\nTeam Credits\nFashion Editor | Park Yeon Kyung\nPhotographer | Kim Young Joon\nHair | Hyunjin Kang\nMakeup | Lee Young\nNails | Hoo Jin Hee\nOn the Set | Yoo Hye Won\nAssistant | Choi In Sun",
     likes: 0,
     liked: false,
     comments: [],
+    currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "rosy.gram",
-    date: "June 4",
+    type: "carousel",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_dress_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-4.1.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-4.2.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-4.3.jpg",
     ],
     caption:
-      "ending the night like this feels a little unreal \n    good food, pretty setup, and just taking a second to appreciate everything ✨\n    #fancydinner #eventnight #grateful #littlemoments\n    ",
+      "ROZY ‘REBIRTH’ | 1st Teaser\n\n\nA journey beyond worlds, a moment of transformation\nReborn and reimagined",
     likes: 0,
     liked: false,
     comments: [],
+    currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "rosy.gram",
-    date: "June 4",
+    type: "carousel",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_speaker_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-5.1.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-5.2.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-5.3.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-5.4.jpg",
+    ],
+    caption: "Coach bag, Rozy vibes. That’s a wrap. 😎✨",
+    likes: 0,
+    liked: false,
+    comments: [],
+    currentIndex: 0, // Track which image is showing in the carousel
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "carousel",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-6.1.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-6.2.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-6.3.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-6.4.jpg",
+    ],
+    caption: "Olympic Rings 🔹💛🖤💚🔴",
+    likes: 0,
+    liked: false,
+    comments: [],
+    currentIndex: 0, // Track which image is showing in the carousel
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "carousel",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-7.1.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-7.2.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-7.3.jpg",
+    ],
+    caption: "ᗷᑌᑎᑎY ᗷᑌᑎᑎY 🐰\nᑭᗩᑎG ᑭᗩᑎG ❕ ❕ 🔫",
+    likes: 0,
+    liked: false,
+    comments: [],
+    currentIndex: 0, // Track which image is showing in the carousel
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "carousel",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-8.1.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-8.2.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-8.3.jpg",
+    ],
+    caption: "Fall in love 💛 🕶",
+    likes: 0,
+    liked: false,
+    comments: [],
+    currentIndex: 0, // Track which image is showing in the carousel
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "carousel",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-9.1.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-9.2.jpg",
+    ],
+    caption: "Watch out👋 biker newbie passing by 🏍🌬",
+    likes: 0,
+    liked: false,
+    comments: [],
+    currentIndex: 0, // Track which image is showing in the carousel
+    profilePic:
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
+  },
+  {
+    type: "carousel",
+    username: "rozy.gram",
+    media: [
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-10.1.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-10.2.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-10.3.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-10.4.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-10.5.jpg",
     ],
     caption:
-      "and somehow I ended up speaking too… ?? 😭\n    definitely nervous but also really grateful to even be in rooms like this\n    #speakingevent #growth #steppingoutofmycomfortzone #creatorlife\n    ",
+      "Foods with a side of sunshine - so delicious ☀️😋\nWait, does that mean that sunshine is tasty? 🤔",
     likes: 0,
     liked: false,
     comments: [],
+    currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
   {
-    type: "image",
-    username: "EmmaK",
-    date: "April 10",
+    type: "carousel",
+    username: "rozy.gram",
     media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/RestaurantL.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-11.1.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-11.2.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-11.3.jpg",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-carouse-11.4.jpg",
     ],
-    caption:
-      "hi hi im emma ☆彡\n    starting this little account for my fits, random thoughts, and everything i like (´｡• ᵕ •｡)\n    be nice to me pls im new here… nice to meet u~ uwu\n    #newaccount #altgirl #uwu #introducingme\n    ",
+    caption: "Holding onto the summer in the valley🏞",
     likes: 0,
     liked: false,
     comments: [],
+    currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
-  },
-  {
-    type: "image",
-    username: "EmmaK",
-    date: "April 25",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/BedL.png",
-    ],
-    caption:
-      "wait why is the capsule bed actually SO comfy…\n    i thought it was gonna feel tiny but it’s like a cozy little cave (｡• ᵕ •｡) ♡\n    lowkey don’t wanna leave\n    #capsulehotel #tokyo #cozyvibes #alttravel\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
-  },
-  {
-    type: "image",
-    username: "rosy.gram",
-    date: "May 28",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_selfie_L.png",
-    ],
-    caption:
-      "this one’s giving date night energy\n    not usually a red girl but… I might be converting 👀\n    #datenightlook #redoutfit #fitcheck #confidence\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
-  },
-  {
-    type: "image",
-    username: "EmmaK",
-    date: "May 26",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/FestivalL.png",
-    ],
-    caption:
-      "i just saw my favorite band LIVE and im still processing 😭\n    BEST NIGHT EVER\n    #livemusic #fangirlmoment #concerthigh #unreal\n    \n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
-  },
-  {
-    type: "image",
-    username: "rosy.gram",
-    date: "May 7",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_tropical_L.png",
-    ],
-    caption:
-      "hawaii, day one 🌺\n    just landed and already obsessed… the air feels different here 🌴✨\n    let the island days begin\n    #hawaii #islandvibes #travelday #vacaymode\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
-  },
-  {
-    type: "image",
-    username: "EmmaK",
-    date: "May 19",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/CoffeeL.png",
-    ],
-    caption:
-      "best matcha in town and im actually obsessed 🍵\n    like why is it THIS good… i fear this might become a daily thing\n    #matchalover #cafelife #obsessed #littlethings\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/AvatarL.png",
-  },
-  {
-    type: "image",
-    username: "CafePhotography",
-    date: "April 28",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/photography_1.jpg",
-    ],
-    caption: "\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/photography_avatar.jpg",
-  },
-  {
-    type: "image",
-    username: "NailsByZZ",
-    date: "April 21",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/nail_1-2.jpg",
-    ],
-    caption: "\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/nail_avatar.jpg",
-  },
-  {
-    type: "image",
-    username: "rosy.gram",
-    date: "April 6",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_country_L.png",
-    ],
-    caption:
-      "Texas, day one 🤎\n    boots on, sun low, and nothing but open land around me… there’s something so grounding about slowing down out here 🌾\n    still new to this, but I think I’m starting to find my vibe ✨\n    #texasvibes #cowgirlenergy #openfields #newcreator\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
-  },
-  {
-    type: "image",
-    username: "NailsByZZ",
-    date: "April 11",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/nail_1-1.jpg",
-    ],
-    caption: "\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/nail_avatar.jpg",
-  },
-  {
-    type: "image",
-    username: "rosy.gram",
-    date: "May 10",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_flower_L.png",
-    ],
-    caption:
-      "hawaii, day four 💔\n    last day and I’m not ready to leave… already wishing I could stay just a little longer 🌺\n    #lastday #hawaiilove #vacationmood #takemeback\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
-  },
-  {
-    type: "image",
-    username: "rosy.gram",
-    date: "June 14",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_street_L.png",
-    ],
-    caption:
-      "had to stop for a 🌭 mid exploring \n    something about street food just hits different… especially when you’re a little lost and a little hungry 🤭\n    10/10 would get another before heading back\n    #mexico #streetfood #travelvibes #littlemoments\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
-  },
-  {
-    type: "image",
-    username: "rosy.gram",
-    date: "May 17",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_sweater_L.png",
-    ],
-    caption:
-      "what would you feed me if we were on a date? 🍝\n    something cute and simple or are we going all out? 🤭\n    I feel like the vibe matters just as much as the food\n    tell me your go-to date meal 👀\n    #datenight #foodie #dateideas #questionoftheday\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
-  },
-  {
-    type: "image",
-    username: "rosy.gram",
-    date: "May 28",
-    media: [
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_pink_L.png",
-    ],
-    caption:
-      "I don’t dress like this often but when I do… I kinda love it 💕\n    felt like being a little extra today and I’m not mad about it ✨\n    #girlyvibes #dressup #ootd #softaesthetic\n    ",
-    likes: 0,
-    liked: false,
-    comments: [],
-    profilePic:
-      "https://raw.githubusercontent.com/alice-ji/chronology/main/rosy_avatar_L.png",
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/rozy-avatar.jpg",
   },
 ];
 
